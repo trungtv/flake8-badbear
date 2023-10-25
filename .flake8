@@ -1,0 +1,9 @@
+[flake8]
+ignore = WPS111, WPS229, D401, WPS232, I001, I005, I003, WPS114, C812, WPS221, E800, WPS317, E501, DAR101, WPS201, Q000, D100, D101, D102, D103, D107
+#max-line-length = 250
+# Maximum number of locals for function / method body
+max-locals = 10
+# Maximum number of arguments for function / method
+max-arguments = 10
+max-module-members = 25
+max-statements=100
